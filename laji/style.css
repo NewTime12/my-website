@@ -1,0 +1,31 @@
+body{
+	background-image:linear-gradient(to right,#16bffd,#d39d38,#ff6a00);
+	background-position:center;
+	background-size:cover;
+	height:100px;
+	margin:0;
+	padding:0;
+	
+}
+h1{
+color:white;
+}
+.login{
+	text-align:center;
+	width:280px;
+	margin:8% auto 0;
+	padding:20px;
+	box-shadow:0 0 3px rgba(0,0,0,0,8);
+	background-image:url(123.jpeg);
+}
+.input{
+	border-radius:10px;
+	padding:8px;
+	margin:10px 0;
+	border:2px solid white;
+}
+a:link{
+color:black;
+text-decoration:none;
+}
+	
